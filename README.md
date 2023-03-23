@@ -1,4 +1,4 @@
-# waterqualitydeneme2
+# waterquality
 
 A new Flutter project.
 
